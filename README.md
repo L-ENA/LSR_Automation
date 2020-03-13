@@ -1,5 +1,5 @@
 # LSR_Automation
-This repository contains an evidence surveillance pipeline for our living review: "Data extraction methods for systematic review (semi)automation: A living review"
+This repository is used to develop an evidence surveillance pipeline for our living review: "Data extraction methods for systematic review (semi)automation: A living review"
 
 Authors:
 Lena Schmidt,
